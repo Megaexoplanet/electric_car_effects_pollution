@@ -1,1 +1,3 @@
-# electric_car_effects_pollution
+Sociodemographics of EV Owners Between 2011-2018
+
+ Electric Vehicle sales increased on average 65% YoY. With the continual decrease in pricing, along with the availability of cheaper accessories (e.g. batteries, charging ports) and more EV models being introduced we expect growth in EV sales to continue. California by far has the most drivers of EV’s (based on US sales data) and the worst pollution according to the American Lung Association makes it the best market for our research on EVs and their effects on air pollution and respiratory health. Based on demographic data for the top five California Counties based on percent of EV registrations the typical consumers currently purchasing EVs are affluent (median Income $92.6k+) and likely to be either Asian or White.
