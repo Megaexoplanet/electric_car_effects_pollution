@@ -9,4 +9,11 @@ There is a negative relationship between the percentage of EVs in a county and t
 of asthma emergency department visits by county. The r square is -.4 which indicates there is a
 lot of error in the model and our line of best-fit does worse than the null hypothesis of a
 horizontal line. The p-value of the regression is .002, indicating we are confident that there is no
-linear relationship between the percentage of EVs and asthma respiratory incidents by county
+linear relationship between the percentage of EVs and asthma respiratory incidents by county.
+
+CA Sources of Power
+By separating the top ten counties that have the greatest EV adoption rate and comparing it
+against the bottom 40 counties that have the lowest EV adoption, we can see that their usage of
+renewable energies is statistically different. We performed an Independent T-Test and found a
+p-value of close to zero. This allowed us to reject the null hypothesis that these groups are from
+the same population.
