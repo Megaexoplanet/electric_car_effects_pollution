@@ -1,4 +1,4 @@
-Sociodemographics of EV Owners Between 2011-2018
+ELECTRIC VEHICLES: IMPACT ON OUR ENVIRONMENT AND HEALTH
 
 Purpose :
 Determine if the increased investment towards
@@ -8,7 +8,7 @@ overall respiratory health.
 
 Hypothesis:
 With YoY sales generally increasing we expect
-to see some improvement in California’s air quality
+to see some improvement in California’s air quality.
 
 We will answer 5 questions
 
