@@ -1,6 +1,14 @@
 Sociodemographics of EV Owners Between 2011-2018
 
-We are assessing the effects electric vehicles (EVs) have on health and air quality in California. We use a datset that has the registrations of all vehicles for the year 2018, and calculate the percentage of EVs by county. We use several sources to create several unique datasets.
+Purpose :
+Determine if the increased investment towards
+Electric Vehicles in the State of California has had a
+positive effect on the environment and the populations
+overall respiratory health.
+
+Hypothesis:
+With YoY sales generally increasing we expect
+to see some improvement in California’s air quality
 
 We will answer 5 questions
 
