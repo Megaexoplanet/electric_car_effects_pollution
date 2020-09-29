@@ -20,7 +20,9 @@ We will answer 5 questions
 
 4. We will do a linear regression looking at the number of instances of upper respitory disease as our outcome variable (y) and the level of air pollution as our explanatory variable (x)
 
- Electric Vehicle sales increased on average 65% YoY. With the continual decrease in pricing, along with the availability of cheaper accessories (e.g. batteries, charging ports) and more EV models being introduced we expect growth in EV sales to continue. California by far has the most drivers of EV’s (based on US sales data) and the worst pollution according to the American Lung Association makes it the best market for our research on EVs and their effects on air pollution and respiratory health. Based on demographic data for the top five California Counties based on percent of EV registrations the typical consumers currently purchasing EVs are affluent (median Income $92.6k+) and likely to be either Asian or White.
+Electric Vehicle sales increased on average 65% YoY
+
+With the continual decrease in pricing, along with the availability of cheaper accessories (e.g. batteries, charging ports) and more EV models being introduced we expect growth in EV sales to continue. California by far has the most drivers of EV’s (based on US sales data) and the worst pollution according to the American Lung Association makes it the best market for our research on EVs and their effects on air pollution and respiratory health. Based on demographic data for the top five California Counties based on percent of EV registrations the typical consumers currently purchasing EVs are affluent (median Income $92.6k+) and likely to be either Asian or White.
 
 Effects EVs have on Air Quality
 
@@ -34,7 +36,8 @@ lot of error in the model and our line of best-fit does worse than the null hypo
 horizontal line. The p-value of the regression is .002, indicating we are confident that there is no
 linear relationship between the percentage of EVs and asthma respiratory incidents by county.
 
-CA Sources of Power
+California Sources of Power
+
 By separating the top ten counties that have the greatest EV adoption rate and comparing it
 against the bottom 40 counties that have the lowest EV adoption, we can see that their usage of
 renewable energies is statistically different. We performed an Independent T-Test and found a
